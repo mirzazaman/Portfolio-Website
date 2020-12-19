@@ -8,14 +8,15 @@
     height: 100vh;
     background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 124, 133)); 
 }
-.main{
+#first-main{
     width: 75%;
-    height: 100vh;
+    height: 80vh;
     margin: auto;
     background-color: rgb(34, 34, 34);
 }
-.head{
+.logo{
     padding: 20px;
+    display: inline-block;
 }
 #main-logo{
     width: 170px;
@@ -25,11 +26,16 @@
     border-radius: 75%;
     padding: 10px;
 }
-.contact{
-    float: right;
-    padding: 30px 20px;
-    width: 30px;
-    height: 30px;
+.buttons{
+   
+    position: fixed;
+    right: 120px;
+    display: inline-block;
+    margin: 30px;
+}
+button{
+    padding: 10px;
+    margin: 5px;
 }
 
 /*----- Text and pic -----*/
@@ -64,11 +70,20 @@ p{
     float: right;
     display: inline-block;
     text-shadow: 0 0 30px #198396;
-    border: solid #198396;
+   
 }
 .my-pic{
     width: 130px;
     height: 230px;
-    border-radius: 70px;
-    border:solid 5px  #198396;
+    border-radius: 50px;
+   box-shadow: 20px 20px 0px #198396;
+}
+.icon-links{
+    margin: 25px;
+    
+}
+.icons{
+    padding: 5px;
+    width: 45px;
+    height: 45px;
 }
