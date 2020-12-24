@@ -7,18 +7,18 @@
 /*----- first main -----*/
 .first-back{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 124, 133)); 
 }
 #first-main{
     width: 75%;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
     background-image: url("./background.png");
     background-size: auto;
 }
 .logo{
-    padding: 20px;
+    margin: 30px;
     display: inline-block;
 }
 #main-logo{
@@ -60,10 +60,9 @@ button, .submit{
 
 }
 .middel{
-    
     width: 32em;
     margin: auto;
-    margin-top: 4em;
+    margin-top: 5.5em;
 }
 .headings{
     display: inline-block;
@@ -91,19 +90,19 @@ h1{
     
 }
 .icons{
-    padding: 5px;
+    margin: 5px;
     width: 45px;
     height: 45px;
 }
 /*----- second main -----*/
 .second-back{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: linear-gradient(rgb(0, 124, 133), rgb(0, 0, 0)); 
 }
 #about{
     width: 75%;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
     background-image: url("./background.png");
     background-size: auto;
@@ -111,14 +110,14 @@ h1{
 .head2{
     text-align: center;
     position: relative;
-    top: 35px;
+    top: 60px;
 }
 .my-details{
     width: 70%;
     margin: auto;
     padding: 30px;
     position: relative;
-    top: 80px;
+    top: 150px;
     background-image: linear-gradient(rgb(43, 43, 43), rgb(15, 15, 15), rgb(43, 43, 43));
     border-radius: 30px;
 }
@@ -147,13 +146,13 @@ h3{
 /*----- third main -----*/
 .third-back{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 124, 133)); 
 }
 #skills{
 
     width: 75%;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
     background-image: url("./background.png");
     background-size: auto;
@@ -171,7 +170,7 @@ h3{
     margin: auto;
     padding: 30px;
     position: relative;
-    top: 170px;
+    top: 220px;
     background-image: linear-gradient(rgb(43, 43, 43), rgb(15, 15, 15), rgb(43, 43, 43));
     border-radius: 30px;
 }
@@ -186,12 +185,12 @@ h3{
 
 .four-back{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: linear-gradient(rgb(0, 124, 133), rgb(0, 0, 0)); 
 }
 #work {
     width: 75%;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
     background-image: url("./background.png");
     background-size: auto;
@@ -210,7 +209,7 @@ h3{
 .work-details{
     width: 80%;
     position: relative;
-    top: 70px;
+    top: 80px;
     margin: auto;
     padding: 5px;
     background-image: linear-gradient(rgb(43, 43, 43), rgb(15, 15, 15), rgb(43, 43, 43));
@@ -219,13 +218,13 @@ h3{
 /*----- last main -----*/
 .last-back{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 124, 133)); 
 }
 #contact{
 
     width: 75%;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
     background-image: url("./background.png");
     background-size: auto;
