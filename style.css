@@ -198,7 +198,7 @@ h3{
 .head4{
     text-align: center;
     position: relative;
-    top: 35px;
+    top: 70px;
 }
 .work-pics{
     border-radius: 50px;
@@ -209,7 +209,7 @@ h3{
 .work-details{
     width: 80%;
     position: relative;
-    top: 80px;
+    top: 150px;
     margin: auto;
     padding: 5px;
     background-image: linear-gradient(rgb(43, 43, 43), rgb(15, 15, 15), rgb(43, 43, 43));
@@ -232,13 +232,13 @@ h3{
 .head-last{
     text-align: center;
     position: relative;
-    top: 35px;
+    top: 80px;
 }
 .input-details{
     width: 41%;
     height: 40%;
     position: relative;
-    top: 100px;
+    top: 170px;
     margin: auto;
     padding: 5px;
     background-image: linear-gradient(rgb(43, 43, 43), rgb(15, 15, 15), rgb(43, 43, 43));
